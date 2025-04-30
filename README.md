@@ -22,10 +22,12 @@ This dashboard answers the question: **What trends are related to employee attri
 - Younger employees had a higher attrition rate.
 - Sales and Human Resources had the highest departmental attrition.
 - Monthly income was noticeably lower for employees who left, particularly in sales roles.
-- Gender attrition rates were fairly close, but females had a slightly higher rate.
+- Gender attrition rates were fairly close, but males had a slightly higher rate.
 
 ## 🧩 Technologies Used
 - Power BI (Desktop)
+- Power Query
+- DAX (Data Analysis Expressions) – used to calculate and format attrition rate measures
 - IBM HR Analytics Attrition Dataset
 
 ## 🧠 Skills Demonstrated
@@ -45,4 +47,4 @@ This dashboard answers the question: **What trends are related to employee attri
 
 ---
 
-Feel free to fork, explore, or use this as inspiration for your own Power BI projects!
+Feel free to explore, take ideas, or use this as a starting point for your own Power BI journey — I made it simple, clean, and something I wish I had when I first started.
