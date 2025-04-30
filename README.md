@@ -12,7 +12,7 @@ This dashboard answers the question: **What trends are related to employee attri
 - **Pie/Donut Chart**: Shows gender distribution and the corresponding attrition rate.
 - **Bar Chart**: Compares attrition rates across different departments.
 - **Line Chart**: Shows how attrition rate changes across age groups.
-- **Bar Chart (Avg. Monthly Income)**: Illustrates average monthly income per job role.
+- **Clustered Bar Chart (Avg. Monthly Income)**: Illustrates average monthly income per job role.
 - **Slicers**: Filter the entire dashboard by:
   - Job Role
   - Department
