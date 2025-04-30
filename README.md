@@ -1,7 +1,7 @@
 
 # Power BI Attrition Dashboard
 
-This project is an interactive Power BI dashboard built to analyze employee attrition trends using the IBM HR Analytics Attrition dataset downloaded from Kaggle. It is designed to help identify the key drivers of attrition based on employee characteristics such as age, department, gender, and job role.
+This project is an interactive Power BI dashboard built to analyze employee attrition trends using the IBM HR Analytics Attrition dataset downloaded from the website Kaggle. It is designed to help identify the key drivers of attrition based on employee characteristics such as age, department, gender, and job role.
 
 ## 📊 Dashboard Summary
 
