@@ -7,6 +7,8 @@ This project is an interactive Power BI dashboard built to analyze employee attr
 Here is a snapshot of the interactive dashboard built in Power BI:
 
 ![Dashboard Preview](https://github.com/roeljoseph1/powerbi-attrition-dashboard/blob/main/Attrition%20Charts.png?raw=true)
+📄 [View PDF Version of Dashboard](./Dashboard_Preview.pdf)
+
 
 ## 📊 Dashboard Summary
 
