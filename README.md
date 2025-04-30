@@ -7,7 +7,7 @@ This project is an interactive Power BI dashboard built to analyze employee attr
 Here is a snapshot of the interactive dashboard built in Power BI:
 
 ![Dashboard Preview](https://github.com/roeljoseph1/powerbi-attrition-dashboard/blob/main/Attrition%20Charts.png?raw=true)
-📄 [View PDF Version of Dashboard](https://github.com/roeljoseph1/powerbi-attrition-dashboard/blob/5daedcc86f0021cf5965bc2f3d523f5b31da57b8/IBM%20HR%20Analytics%20Attrition%20Dashboard.pdf)
+📄 [View/Download PDF Version of Dashboard](https://github.com/roeljoseph1/powerbi-attrition-dashboard/blob/5daedcc86f0021cf5965bc2f3d523f5b31da57b8/IBM%20HR%20Analytics%20Attrition%20Dashboard.pdf)
 
 You can download the `.pbix` file and open it locally in Power BI Desktop to explore the full interactivity of the dashboard.
 
