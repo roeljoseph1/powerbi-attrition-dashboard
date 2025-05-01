@@ -58,4 +58,4 @@ This dashboard answers the question: **What trends are related to employee attri
 
 ---
 
-Feel free to explore, take ideas, or use this as a starting point for your own Power BI journey — I made it simple, clean, and something I wish I had when I first started.
+Feel free to explore, take ideas, or use this as a starting point for your own Power BI journey.
